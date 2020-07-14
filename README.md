@@ -1,2 +1,2 @@
 # hello-world
-Just start learn
+Evry start is hard
